@@ -40,6 +40,8 @@
 
 ## Overview
 
+**THIS IS A WORK IN PROGRESS AND IS NOT YET READY FOR USE**
+
 This script is designed to generate secure passwords and evaluate their strength. It calculates password strength based on entropy, character variety, and rule-based penalties, and includes optional dictionary checks for common passwords. It can also analyze passwords from a file or assess the strength of user-provided passwords.
 
 ## Features
